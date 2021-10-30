@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Juan Antonio Soto Cabrera</h1>
 <h3 align="center">Soy un desarrollador full stack, Amante de Angular & Typescript, los videojuegos y las pizza hawaiana</h3>
 
-- 🔭 Actualmente ando trabajando en [STR Tracking - Servicio de geolocalización](strtraking.web.app)
+- 🔭 Actualmente ando trabajando en **EDPYME ALTERNATIVA**
 
 - 🌱 Actualmente ando aprendiendo **Python con Django, CSS**
 
